@@ -46,9 +46,9 @@ Instead of manually wiring entry animations, trend labels, hover effects, loadin
 ## Preview
 
 <p align="center">
-  <img src="images/Screenshot-1.png" alt="Animated status card preview 1" width="30%" />
-  <img src="images/Screenshot-2.png" alt="Animated status card preview 2" width="30%" />
-  <img src="images/Screenshot-3.png" alt="Animated status card preview 3" width="30%" />
+  <img src="images/Screenshot-1.png" alt="Animated status card preview 1" width="240" height="495" />
+  <img src="images/Screenshot-2.png" alt="Animated status card preview 2" width="240" height="495" />
+  <img src="images/Screenshot-3.png" alt="Animated status card preview 3" width="240" height="495" />
 </p>
 
 ## Features
