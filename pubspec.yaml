@@ -14,6 +14,9 @@ description: "A Flutter package for animated dashboard status cards with trends,
 # In Windows, build-name is used as the major, minor, and patch parts
 # of the product and file versions while build-number is used as the build suffix.
 version: 0.0.1
+homepage: https://github.com/Azrul16/animated_status_card
+repository: https://github.com/Azrul16/animated_status_card
+issue_tracker: https://github.com/Azrul16/animated_status_card/issues
 
 environment:
   sdk: ^3.11.0
