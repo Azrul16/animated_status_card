@@ -32,9 +32,6 @@ Thumbs.db
 /coverage/
 **/doc/api/
 
-# Package lockfile
-pubspec.lock
-
 # Flutter platform-generated files
 **/ios/Flutter/.last_build_id
 **/ios/Flutter/App.framework
@@ -46,9 +43,6 @@ pubspec.lock
 **/ios/Flutter/app.zip
 **/ios/Flutter/flutter_assets/
 **/macos/Flutter/ephemeral/
-**/macos/Flutter/GeneratedPluginRegistrant.swift
-**/linux/flutter/generated_plugin_registrant.*
-**/windows/flutter/generated_plugin_registrant.*
 
 # Android build outputs
 android/.gradle/
